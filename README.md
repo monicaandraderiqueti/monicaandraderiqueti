@@ -8,19 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF4F7,50:BFD7EA,100:91B8D1&height=180&section=header&text=Mônica%20Riqueti&fontSize=42&fontColor=000000&animation=fadeIn" width="100%" alt="Banner Azul Mônica Riqueti" />
 </p>
 
-## 🎓 Sobre mim
+## ✦ Sobre mim
 
 Sou estudante de **Ciência da Computação** e estou construindo minha jornada na área de tecnologia. Atualmente, estou desenvolvendo meus conhecimentos em Java, JavaScript e Python, com foco em desenvolvimento Back-end, além de estudar Spring Boot, SQL e bancos de dados. Também estou aprimorando minhas práticas com Git e GitHub e criando projetos para colocar meus conhecimentos em prática.
 
 <br>
-
-<!-- ╭──────────────────────────────────────────────╮ -->
-
-<!--             🛠️ TECNOLOGIAS E FERRAMENTAS       -->
-
-<!-- ╰──────────────────────────────────────────────╯ -->
-
-## 🛠️ Linguagens e Ferramentas
 
 ### 💻 Linguagens
 
@@ -66,7 +58,7 @@ Sou estudante de **Ciência da Computação** e estou construindo minha jornada 
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR4MnAweHEzem83bW1mcDVqdTZsNXVhN3Bya3RuM3pqa2Y4bnQ1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iRaC9ukzuS1Og/giphy.gif" width="200" alt="Gif fofo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR4MnAweHEzem83bW1mcDVqdTZsNXVhN3Bya3RuM3pqa2Y4bnQ1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iRaC9ukzuS1Og/giphy.gif" width="400" alt="Gif fofo" />
 </p>
 
 <p align="center">
