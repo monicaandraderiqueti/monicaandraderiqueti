@@ -12,16 +12,6 @@
   />
 </p>
 
-<h3 align="center">
-  ✨ Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas novas! ✨
-</h3>
-
-<p align="center">
-  💜 Ciência da Computação • 💻 Programação
-</p>
-
-<br>
-
 <p align="center">
   ✦ ─────────────── ✮ ─────────────── ✦
 </p>
