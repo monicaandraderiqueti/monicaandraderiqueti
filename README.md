@@ -2,16 +2,15 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpNm9vZjlyMnA4cWRsZ21mbnpzZWc2OXM3bnkyN2NmcjhkaWkyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20ND5yY/giphy.gif" width="200" align="right" />
 
-Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas incríveis! 🚀
+Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas novas! 🚀
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudando **Sistemas de Informação / Ciência da Computação**
-- 💻 Atualmente praticando **Java** e **Python**
-- 💬 Me pergunte sobre **Desenvolvimento Web, Lógica e Projetos**
-- 📫 Como me encontrar: **[seuemail@gmail.com](mailto:seuemail@gmail.com)**
+- 🎓 Estudando **Ciência da Computação**
+- 💻 Atualmente praticando **JavaScript** e **Java**
+- 📫 Como me encontrar: **[monicaandraderiqueti@gmail.com](mailto:monicaandraderiqueti@gmail.com)**
 
 ---
 
