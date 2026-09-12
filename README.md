@@ -15,7 +15,7 @@
 
 ## 🎓 Sobre mim
 
-Olá! Eu sou a **Mônica** 👋💜
+Olá! Eu sou a **Mônica** 👋 ✮
 
 Sou estudante de **Ciência da Computação** e estou construindo minha jornada na área de tecnologia, sempre buscando aprender, praticar e transformar ideias em projetos.
 
