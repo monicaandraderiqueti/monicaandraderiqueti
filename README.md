@@ -10,18 +10,7 @@
 
 ## 🎓 Sobre mim
 
-Olá! Eu sou a **Mônica** 👋 ✮
-
-Sou estudante de **Ciência da Computação** e estou construindo minha jornada na área de tecnologia, sempre buscando aprender, praticar e transformar ideias em projetos.
-
-Atualmente estou focada em desenvolver minhas habilidades em programação e desenvolvimento de sistemas.
-
-* Estudante de **Ciência da Computação**
-* Praticando **Java, JavaScript e Python**
-* Aprendendo cada vez mais sobre desenvolvimento **Back-end**
-* Estudando **SQL e bancos de dados**
-* Criando projetos para colocar meus conhecimentos em prática
-* Sempre buscando aprender uma tecnologia nova
+Sou estudante de **Ciência da Computação** e estou construindo minha jornada na área de tecnologia. Atualmente, estou desenvolvendo meus conhecimentos em Java, JavaScript e Python, com foco em desenvolvimento Back-end, além de estudar Spring Boot, SQL e bancos de dados. Também estou aprimorando minhas práticas com Git e GitHub e criando projetos para colocar meus conhecimentos em prática.
 
 <br>
 
@@ -62,7 +51,7 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
 
 <!-- ╰──────────────────────────────────────────────╯ -->
 
-## 🌐 Vamos nos conectar?
+## 🌐 Contato
 
 <p align="center">
 
