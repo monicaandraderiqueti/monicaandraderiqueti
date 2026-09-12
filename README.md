@@ -30,10 +30,6 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
 
 <br>
 
-<p align="center">
-  ✦ ─────────────── ✮ ─────────────── ✦
-</p>
-
 <!-- ╭──────────────────────────────────────────────╮ -->
 
 <!--             🛠️ TECNOLOGIAS E FERRAMENTAS       -->
@@ -65,10 +61,6 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
 
 <br>
 
-<p align="center">
-  ✦ ─────────────── ✮ ─────────────── ✦
-</p>
-
 <!-- ╭──────────────────────────────────────────────╮ -->
 
 <!--                🌐 CONTATO                       -->
@@ -96,9 +88,15 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/L1R1tvI9svv20ND5yY/giphy.gif"
+    src="[https://media.giphy.com/media/L1R1tvI9svv20ND5yY/giphy.gif](https://giphy.com/gifs/3oKGz9PtFqfXQy0yre)"
     width="180"
     alt="Gif fofo"
   />
 </p>
+
+
+<p align="center">
+  ✦ ─────────────── ✮ ─────────────── ✦
+</p>
+
 
