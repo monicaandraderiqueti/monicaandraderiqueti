@@ -82,35 +82,6 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
   ✦ ─────────────── ✮ ─────────────── ✦
 </p>
 
-
-<!-- ╭──────────────────────────────────────────────╮ -->
-
-<!--                  📊 GITHUB                      -->
-
-<!-- ╰──────────────────────────────────────────────╯ -->
-
-## 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=monicaandraderiqueti&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaandraderiqueti&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Linguagens mais utilizadas"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  ✦ ─────────────── ✮ ─────────────── ✦
-</p>
-
 <!-- ╭──────────────────────────────────────────────╮ -->
 
 <!--                🌐 CONTATO                       -->
@@ -135,12 +106,6 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
     />
   </a>
 <br>
-
-<!-- ╭──────────────────────────────────────────────╮ -->
-
-<!--                  🌷 FINAL                       -->
-
-<!-- ╰──────────────────────────────────────────────╯ -->
 
 <p align="center">
   <img
