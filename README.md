@@ -1,7 +1,6 @@
-<!-- BANNER DO TOPO (GRADIENTE ROXO PROFUNDO -> PRETO) -->
-<!-- BANNER DO TOPO (ROXO LILÁS PROFUNDO) -->
+<!-- BANNER DO TOPO (ROXO LILÁS PERFEITO) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,1A0B2E,0D0D0D&height=180&section=header&text=Mônica%20Riqueti&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Roxo Mônica Riqueti" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=%238A2BE2,%234B0082,%230D0D0D&height=180&section=header&text=Mônica%20Riqueti&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Roxo Mônica Riqueti" />
 </p>
 
 <!-- APRESENTAÇÃO -->
