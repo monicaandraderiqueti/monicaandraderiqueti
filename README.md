@@ -88,8 +88,8 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
 
 <p align="center">
   <img
-    src="[https://media.giphy.com/media/L1R1tvI9svv20ND5yY/giphy.gif](https://giphy.com/gifs/3oKGz9PtFqfXQy0yre)"
-    width="180"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR4MnAweHEzem83bW1mcDVqdTZsNXVhN3Bya3RuM3pqa2Y4bnQ1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iRaC9ukzuS1Og/giphy.gif"
+    width="200"
     alt="Gif fofo"
   />
 </p>
