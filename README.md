@@ -1,7 +1,6 @@
 # Olá, eu sou a Mônica! 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpNm9vZjlyMnA4cWRsZ21mbnpzZWc2OXM3bnkyN2NmcjhkaWkyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20ND5yY/giphy.gif" width="200" align="right" />
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=200&section=header&text=Mônica%20Riqueti&fontSize=50&animation=fadeIn&fontColor=ffffff)
 Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas novas! 🚀
 
 ---
