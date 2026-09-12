@@ -1,6 +1,10 @@
-<!-- BANNER DO TOPO (ROXO / LILÁS DEGRADÊ) -->
+<!-- BANNER DO TOPO (LILÁS / ROXO DEGRADÊ) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10,11,12&height=180&section=header&text=Mônica%20Riqueti&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Roxo Mônica Riqueti" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C084FC,100:8B5CF6&height=180&section=header&text=Mônica%20Riqueti&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
+    width="100%"
+    alt="Banner Lilás Mônica Riqueti"
+  />
 </p>
 
 <!-- APRESENTAÇÃO -->
