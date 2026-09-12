@@ -8,7 +8,9 @@
 </p>
 
 <!-- APRESENTAÇÃO -->
-<h3 align="center">✨ Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas novas! ✨</h3>
+<h3 align="center">
+  ✨ Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas novas! ✨
+</h3>
 
 <br />
 
