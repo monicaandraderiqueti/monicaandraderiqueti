@@ -93,17 +93,16 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=monicaandraderiqueti&show_icons=true&hide_border=true&bg_color=2E1A47&title_color=E9D5FF&text_color=F5F3FF&icon_color=C084FC"
+    src="https://github-readme-stats.vercel.app/api?username=monicaandraderiqueti&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
     alt="Estatísticas do GitHub"
   />
 
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaandraderiqueti&layout=compact&hide_border=true&bg_color=2E1A47&title_color=E9D5FF&text_color=F5F3FF"
- width="48%"
- alt="Linguagens mais utilizadas"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaandraderiqueti&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 <br>
