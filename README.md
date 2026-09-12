@@ -17,20 +17,14 @@
 </h3>
 
 <p align="center">
-  💜 Ciência da Computação • 💻 Programação • 🌱 Aprendizado contínuo
+  💜 Ciência da Computação • 💻 Programação
 </p>
 
 <br>
 
 <p align="center">
-  ✦ ─────────────── 💜 ─────────────── ✦
+  ✦ ─────────────── ✮ ─────────────── ✦
 </p>
-
-<!-- ╭──────────────────────────────────────────────╮ -->
-
-<!--                    🎓 SOBRE MIM                 -->
-
-<!-- ╰──────────────────────────────────────────────╯ -->
 
 ## 🎓 Sobre mim
 
@@ -40,17 +34,17 @@ Sou estudante de **Ciência da Computação** e estou construindo minha jornada 
 
 Atualmente estou focada em desenvolver minhas habilidades em programação e desenvolvimento de sistemas.
 
-* 👩‍💻 Estudante de **Ciência da Computação**
-* 💻 Praticando **Java, JavaScript e Python**
-* 🌱 Aprendendo cada vez mais sobre desenvolvimento **Back-end**
-* 🗄️ Estudando **SQL e bancos de dados**
-* 🚀 Criando projetos para colocar meus conhecimentos em prática
-* ✨ Sempre buscando aprender uma tecnologia nova
+*  Estudante de **Ciência da Computação**
+*  Praticando **Java, JavaScript e Python**
+*  Aprendendo cada vez mais sobre desenvolvimento **Back-end**
+*  Estudando **SQL e bancos de dados**
+*  Criando projetos para colocar meus conhecimentos em prática
+*  Sempre buscando aprender uma tecnologia nova
 
 <br>
 
 <p align="center">
-  ✦ ─────────────── 💜 ─────────────── ✦
+  ✦ ─────────────── ✮ ─────────────── ✦
 </p>
 
 <!-- ╭──────────────────────────────────────────────╮ -->
@@ -85,40 +79,9 @@ Atualmente estou focada em desenvolver minhas habilidades em programação e des
 <br>
 
 <p align="center">
-  ✦ ─────────────── 💜 ─────────────── ✦
+  ✦ ─────────────── ✮ ─────────────── ✦
 </p>
 
-<!-- ╭──────────────────────────────────────────────╮ -->
-
-<!--                  🚀 PROJETOS                    -->
-
-<!-- ╰──────────────────────────────────────────────╯ -->
-
-## 🚀 Projetos em destaque
-
-### ⚖️ JuriGroscon — Sistema Jurídico
-
-Sistema desenvolvido para organizar e centralizar informações relacionadas a **processos jurídicos de clientes inadimplentes**.
-
-**Tecnologias:**
-`Java` • `Spring Boot` • `PostgreSQL` • `JPA/Hibernate`
-
-O projeto faz parte da minha jornada acadêmica e está sendo desenvolvido com foco em organização de dados, APIs e desenvolvimento Back-end.
-
----
-
-### 📋 Painel de Produtividade
-
-Projeto pessoal para praticar desenvolvimento **Front-end**, reunindo recursos como tarefas, calendário, metas, hábitos, finanças e organização dos estudos.
-
-**Tecnologias:**
-`HTML` • `CSS` • `JavaScript`
-
-<br>
-
-<p align="center">
-  ✦ ─────────────── 💜 ─────────────── ✦
-</p>
 
 <!-- ╭──────────────────────────────────────────────╮ -->
 
@@ -146,7 +109,7 @@ Projeto pessoal para praticar desenvolvimento **Front-end**, reunindo recursos c
 <br>
 
 <p align="center">
-  ✦ ─────────────── 💜 ─────────────── ✦
+  ✦ ─────────────── ✮ ─────────────── ✦
 </p>
 
 <!-- ╭──────────────────────────────────────────────╮ -->
@@ -172,13 +135,6 @@ Projeto pessoal para praticar desenvolvimento **Front-end**, reunindo recursos c
       alt="Email"
     />
   </a>
-
-</p>
-
-<p align="center">
-  <i>💜 Obrigada por visitar meu perfil!</i>
-</p>
-
 <br>
 
 <!-- ╭──────────────────────────────────────────────╮ -->
@@ -193,13 +149,5 @@ Projeto pessoal para praticar desenvolvimento **Front-end**, reunindo recursos c
     width="180"
     alt="Gif fofo"
   />
-</p>
-
-<p align="center">
-  ✨ <b>Aprendendo, criando e evoluindo um código de cada vez.</b> ✨
-</p>
-
-<p align="center">
-  💜 ─────────────── 🌷 ─────────────── 💜
 </p>
 
