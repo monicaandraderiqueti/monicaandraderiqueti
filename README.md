@@ -1,8 +1,8 @@
 # Olá, eu sou a Mônica! 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=200&section=header&text=Mônica%20Riqueti&fontSize=50&animation=fadeIn&fontColor=ffffff)
-
 Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas novas! 🚀
+
+<img src="https://github-readme-stats.vercel.app/api?username=monicaandraderiqueti&show_icons=true&theme=rose_pine" />
 
 ---
 
