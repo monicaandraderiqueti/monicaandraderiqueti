@@ -1,19 +1,15 @@
-<!-- BANNER DO TOPO -->
+<!-- BANNER DO TOPO (GRADIENTE ROXO / ROSA) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=180&section=header&text=Olá,%20eu%20sou%20a%20Mônica!%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=180&section=header&text=Olá,%20eu%20sou%20a%20Mônica!%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
-<!-- APRESENTAÇÃO E GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpNm9vZjlyMnA4cWRsZ21mbnpzZWc2OXM3bnkyN2NmcjhkaWkyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svv20ND5yY/giphy.gif" width="160" />
-</p>
-
+<!-- APRESENTAÇÃO -->
 <h3 align="center">✨ Desenvolvedora em aprendizado apaixonada por tecnologia e por criar coisas novas! ✨</h3>
 
 <br />
 
 <!-- DIVISOR ESTILIZADO -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-85d4-11f5b056ada8.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036f00-a425-11eb-892c-15c323c1076f.gif" width="100%">
 
 ### 🎓 Sobre mim
 
@@ -25,7 +21,7 @@
 <br />
 
 <!-- DIVISOR ESTILIZADO -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-85d4-11f5b056ada8.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036f00-a425-11eb-892c-15c323c1076f.gif" width="100%">
 
 ### 🛠️ Linguagens e Ferramentas
 
@@ -41,7 +37,7 @@
 <br />
 
 <!-- DIVISOR ESTILIZADO -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-85d4-11f5b056ada8.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036f00-a425-11eb-892c-15c323c1076f.gif" width="100%">
 
 ### 📊 Estatísticas no GitHub
 
@@ -53,12 +49,19 @@
 <br />
 
 <!-- DIVISOR ESTILIZADO -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a425-11eb-85d4-11f5b056ada8.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036f00-a425-11eb-892c-15c323c1076f.gif" width="100%">
 
 ### 🌐 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://linkedin.com/in/m%C3%B4nica-riqueti" target="_blank">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<br />
+
+<!-- GIF NO FINAL DO PERFIL -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svv20ND5yY/giphy.gif" width="200" alt="Gif fofo no final" />
 </p>
